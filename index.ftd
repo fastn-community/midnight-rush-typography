@@ -1,7 +1,7 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
--- import: fifthtry.github.io/opensans/assets as opensans-assets
+-- import: fastn-community.github.io/opensans-font/assets as opensans-assets
 
 
 
@@ -454,14 +454,14 @@ line-height.px: 21
 size.px: 16
 letter-spacing.px: 0
 weight: 600
-font-family: $source-code-pro-assets.fonts.Source-Code-Pro
+font-family:$opensans-assets.fonts.Open-Sans
 
 -- ftd.type source-code-desktop:
 line-height.px: 30
 size.px: 18
 letter-spacing.px: 0
 weight: 600
-font-family: $source-code-pro-assets.fonts.Source-Code-Pro
+font-family:$opensans-assets.fonts.Open-Sans
 
 -- ftd.responsive-type source-code:
 desktop: $source-code-desktop
