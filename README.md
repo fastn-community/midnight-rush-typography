@@ -1,18 +1,20 @@
-# Welcome to your [FASTN site](https://fastn.io/)
+# Set 1 Typography: fastn Font Typography Package
 
-FASTN set-1-typography Template Repo
+This repository contains a fastn font typography package for [Set 1 DS](https://fastn-community.github.io/set-1-ds/).
 
-## 🧞 Commands
+It uses below fastn fonts packages:
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `fastn build`            | FASTN builder installs all `FASTN` dependencies        |
-| `fastn serve`            | Starts local dev server at available port`localhost:8000`          |
+1. [Opensans-font](https://fastn-community.github.io/opensans-font/).
 
 
+## How To Use This Font Typography In Your fastn Package:
+
+Read documentation [Set-1-typography](https://fastn-community.github.io/set-1-typography/)
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://fastn.io/) or jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+Feel free to check [our documentation](https://fastn.com/) or jump into our [FifthTry Discord 
+server](https://discord.gg/bucrdvptYd).
+
+## License:
+[BSD-3-Clause license](LICENSE).
