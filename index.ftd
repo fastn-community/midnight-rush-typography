@@ -2,7 +2,7 @@
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
 -- import: fastn-community.github.io/opensans-font/assets as opensans-assets
-
+-- import: fastn-community.github.io/poppins-font/assets as poppins-assets
 
 
 
@@ -542,14 +542,14 @@ line-height.px: 21
 size.px: 16
 letter-spacing.px: 0
 weight: 500
-font-family: $opensans-assets.fonts.Open-Sans
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type button-medium-desktop:
 line-height.px: 21
 size.px: 16
 letter-spacing.px: 0
 weight: 500
-font-family: $opensans-assets.fonts.Open-Sans
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.responsive-type button-medium:
 desktop: $button-medium-desktop
