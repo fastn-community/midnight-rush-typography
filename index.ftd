@@ -564,14 +564,14 @@ line-height.px: 19
 size.px: 14
 letter-spacing.px: 0
 weight: 700
-font-family: $opensans-assets.fonts.Open-Sans
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type button-small-desktop:
 line-height.px: 19
 size.px: 14
 letter-spacing.px: 0
 weight: 700
-font-family: $opensans-assets.fonts.Open-Sans
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.responsive-type button-small:
 desktop: $button-small-desktop
