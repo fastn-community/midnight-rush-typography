@@ -366,13 +366,13 @@ line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $opensans-assets.fonts.Open-Sans
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type copy-regular-desktop:
 line-height.px: 30
 size.px: 18
 letter-spacing.px: 0
-font-family: $opensans-assets.fonts.Open-Sans
+font-family: $poppins-assets.fonts.Poppins
 weight: 400
 
 -- ftd.responsive-type copy-regular:
