@@ -411,14 +411,14 @@ line-height.px: 16
 size.px: 12
 letter-spacing.px: 0
 weight: 400
-font-family: $opensans-assets.fonts.Open-Sans
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.type fine-print-desktop:
 line-height.px: 16
 size.px: 12
 letter-spacing.px: 0
 weight: 400
-font-family: $opensans-assets.fonts.Open-Sans
+font-family: $poppins-assets.fonts.Poppins
 
 -- ftd.responsive-type fine-print:
 desktop: $fine-print-desktop
