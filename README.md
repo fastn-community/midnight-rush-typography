@@ -1,6 +1,6 @@
-# Set 1 Typography: fastn Font Typography Package
+# Midnight rush typography: fastn Font Typography Package
 
-This repository contains a fastn font typography package for [Set 1 DS](https://fastn-community.github.io/set-1-ds/).
+This repository contains a fastn font typography package for [Midnight](https://fastn-community.github.io/midnight-rush/).
 
 It uses below fastn fonts packages:
 
@@ -9,7 +9,7 @@ It uses below fastn fonts packages:
 
 ## How To Use This Font Typography In Your fastn Package:
 
-Read documentation [Set-1-typography](https://fastn-community.github.io/set-1-typography/)
+Read documentation [midnight-rush-typography](https://fastn-community.github.io/midnight-rush-typography/)
 
 ## 👀 Want to learn more?
 
